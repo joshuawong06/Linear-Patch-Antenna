@@ -1,0 +1,17 @@
+HFSS/**
+!HFSS/
+!HFSS/Linear_Patch_Rectangle.aedt
+!HFSS/Linear_Patch_Square.aedt
+
+
+Altium/**
+!Altium/
+!Altium/*.PcbDoc
+!Altium/*.PrjPcb
+!Altium/*.SchDoc
+
+Notes/**
+Exports/**
+Figures/**
+!Figures/
+!Figures/S11.png
