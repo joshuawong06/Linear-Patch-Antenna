@@ -6,7 +6,7 @@
 
 ## PCB Layout
 
-![PCB Layout](Figures/PCB_Layout.png)
+
 
 ## S-Parameter Results
 
