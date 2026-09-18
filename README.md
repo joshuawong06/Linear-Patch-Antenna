@@ -14,3 +14,9 @@
 - -15 dB bandwidth of 27.1 MHz
 
 ![S-parameter results](Figures/S11.png)
+
+## Status
+
+- HFSS simulation completed
+- PCB layout created
+- Not yet fabricated or tested
